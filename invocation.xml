@@ -201,6 +201,22 @@
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
                 </item>
+                item xml:id="inv022">
+                    <term xml:lang="grc">Θεοτόκε τὸν σὸν λάτριν ... βοήθει</term>
+                    <term xml:lang="en">Mother of God, help your worshipper</term>
+                    <term xml:lang="fr">Mère de Dieu protège ton adorateur</term>
+                    <term xml:lang="de">Muttergottes, hilf deinem Anbeter</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
+                item xml:id="inv023">
+                    <term xml:lang="grc">Θεοτόκε βοήθει ... σῷ οἰκέτῃ</term>
+                    <term xml:lang="en">Mother of God, help your servant</term>
+                    <term xml:lang="fr">Mère de Dieu protège ton serviteur</term>
+                    <term xml:lang="de">Muttergottes, hilf deinem Diener</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
             </list>
         </body>
     </text>
