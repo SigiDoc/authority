@@ -906,7 +906,7 @@
             </ns0:item>
             <ns0:item xml:id="org0098">
                <ns0:term xml:lang="grc">Λαυσιακόν</ns0:term>
-               <ns0:term xml:lang="en" >Lausiakon</ns0:term>
+               <ns0:term xml:lang="en">Lausiakon</ns0:term>
                <ns0:term xml:lang="fr">Lausiakon</ns0:term>
                <ns0:term xml:lang="de">Lausiakon</ns0:term>
                <ns0:term xml:lang="bg">xxx</ns0:term>
@@ -915,7 +915,7 @@
             </ns0:item>
             <ns0:item xml:id="org0099">
                <ns0:term xml:lang="grc">στρατός</ns0:term>
-               <ns0:term xml:lang="en" >Army</ns0:term>
+               <ns0:term xml:lang="en">Army</ns0:term>
                <ns0:term xml:lang="fr">Armée</ns0:term>
                <ns0:term xml:lang="de">Armee</ns0:term>
                <ns0:term xml:lang="bg">xxx</ns0:term>
@@ -924,11 +924,20 @@
             </ns0:item>
             <ns0:item xml:id="org0100">
                <ns0:term xml:lang="grc">φοιδεράτοι</ns0:term>
-               <ns0:term xml:lang="en" >Federates</ns0:term>
+               <ns0:term xml:lang="en">Federates</ns0:term>
                <ns0:term xml:lang="fr">Fédérés</ns0:term>
                <ns0:term xml:lang="de">Föderation</ns0:term>
                <ns0:term xml:lang="bg">xxx</ns0:term>
                <ns0:term xml:lang="el">Φοιδεράτοι</ns0:term>
+               <ns0:term xml:lang="it">xxx</ns0:term>
+            </ns0:item>
+            <ns0:item xml:id="org0101">
+               <ns0:term xml:lang="grc">μονὴ τῆς Παναγίας Θεοτόκου τῆς Ἀχειροποιήτου</ns0:term>
+               <ns0:term xml:lang="en">Monastery of the All-holy Mother of God Acheiropoietos</ns0:term>
+               <ns0:term xml:lang="fr">Monastère de la Vierge acheiropoiètos</ns0:term>
+               <ns0:term xml:lang="de">Kloster der Heiligen Muttergottes Acheiropoietos</ns0:term>
+               <ns0:term xml:lang="bg">xxx</ns0:term>
+               <ns0:term xml:lang="el">xxx</ns0:term>
                <ns0:term xml:lang="it">xxx</ns0:term>
             </ns0:item>
          </ns0:list>
