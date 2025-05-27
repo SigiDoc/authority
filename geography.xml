@@ -726,6 +726,7 @@
             </place>
             <place xml:id="geo0074">
                <placeName xml:lang="grc">Δαλματία</placeName>
+               <placeName xml:lang="la">Dalmatia</placeName>
                <placeName xml:lang="en">Dalmatia</placeName>
                <placeName xml:lang="fr">Dalmatie</placeName>
                <placeName xml:lang="de">Dalmatien</placeName>
@@ -3307,6 +3308,24 @@
                <placeName xml:lang="fr">Larissa</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Λαρίσση</placeName>
+               <idno type="pleiades"/>
+            </place>
+            <place xml:id="geo0329">
+               <placeName xml:lang="la">Venetia</placeName>
+               <placeName xml:lang="en">Venice</placeName>
+               <placeName xml:lang="de">Venedig</placeName>
+               <placeName xml:lang="fr">Venise</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">xxx</placeName>
+               <idno type="pleiades"/>
+            </place>
+            <place xml:id="geo0330">
+               <placeName xml:lang="la">Chroatia</placeName>
+               <placeName xml:lang="en">Croatia</placeName>
+               <placeName xml:lang="de">Kroatien</placeName>
+               <placeName xml:lang="fr">Croatie</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">xxx</placeName>
                <idno type="pleiades"/>
             </place>
          </listPlace>
