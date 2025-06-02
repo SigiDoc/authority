@@ -940,6 +940,15 @@
                <ns0:term xml:lang="el">xxx</ns0:term>
                <ns0:term xml:lang="it">xxx</ns0:term>
             </ns0:item>
+            <ns0:item xml:id="org0102">
+               <ns0:term xml:lang="grc">Θεοῦ Σοφίας οἰκονομεῖον</ns0:term>
+               <ns0:term xml:lang="en">Treasure of the Hagia Sophia</ns0:term>
+               <ns0:term xml:lang="fr">Trésor de Sainte-Sophie</ns0:term>
+               <ns0:term xml:lang="de">Schatzkammer der Hagia Sofia</ns0:term>
+               <ns0:term xml:lang="bg">xxx</ns0:term>
+               <ns0:term xml:lang="el">xxx</ns0:term>
+               <ns0:term xml:lang="it">xxx</ns0:term>
+            </ns0:item>
          </ns0:list>
       </ns0:body>
    </ns0:text>
