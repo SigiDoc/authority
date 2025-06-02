@@ -3328,6 +3328,15 @@
                <placeName xml:lang="el">xxx</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0331">
+               <placeName xml:lang="grc">Μεγάλη Ἀντιόχεια</placeName>
+               <placeName xml:lang="en">Great Antioch</placeName>
+               <placeName xml:lang="de">Großes Antiocheia</placeName>
+               <placeName xml:lang="fr">Grande Antioche</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">xxx</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
