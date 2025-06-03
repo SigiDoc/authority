@@ -2696,11 +2696,19 @@
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
             </item>
-            <item xml:id="of0297">
+            <item xml:id="of0297"><!--see of0298 θυηπόλος-->
                <term xml:lang="grc">θύτης</term>
                <term xml:lang="en">thytes</term>
                <term xml:lang="fr">thytès</term>
                <term xml:lang="de">thytes</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+            </item>
+            <item xml:id="of0298"><!--see of0297 θύτης-->
+               <term xml:lang="grc">θυηπόλος</term>
+               <term xml:lang="en">thyepolos</term>
+               <term xml:lang="fr">thyèpolos</term>
+               <term xml:lang="de">thyepolos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
             </item>
