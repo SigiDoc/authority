@@ -934,7 +934,7 @@
             <ns0:item xml:id="org0101">
                <ns0:term xml:lang="grc">μονὴ τῆς Παναγίας Θεοτόκου τῆς Ἀχειροποιήτου</ns0:term>
                <ns0:term xml:lang="en">Monastery of the All-holy Mother of God Acheiropoietos</ns0:term>
-               <ns0:term xml:lang="fr">Monastère de la Vierge acheiropoiètos</ns0:term>
+               <ns0:term xml:lang="fr">Monastère de la Vierge Acheiropoiètos</ns0:term>
                <ns0:term xml:lang="de">Kloster der Heiligen Muttergottes Acheiropoietos</ns0:term>
                <ns0:term xml:lang="bg">xxx</ns0:term>
                <ns0:term xml:lang="el">xxx</ns0:term>
@@ -945,6 +945,15 @@
                <ns0:term xml:lang="en">Treasure of the Hagia Sophia</ns0:term>
                <ns0:term xml:lang="fr">Trésor de Sainte-Sophie</ns0:term>
                <ns0:term xml:lang="de">Schatzkammer der Hagia Sofia</ns0:term>
+               <ns0:term xml:lang="bg">xxx</ns0:term>
+               <ns0:term xml:lang="el">xxx</ns0:term>
+               <ns0:term xml:lang="it">xxx</ns0:term>
+            </ns0:item>
+            <ns0:item xml:id="org0103">
+               <ns0:term xml:lang="grc">μονὴ τῆς Θεοτόκου τῆς Θεοσκεπάστου</ns0:term>
+               <ns0:term xml:lang="en">Monastery of the Mother of God Theoskepastos</ns0:term>
+               <ns0:term xml:lang="fr">Monastère de la Vierge Théosképastos</ns0:term>
+               <ns0:term xml:lang="de">Kloster der Heiligen Muttergottes Theoskepastos</ns0:term>
                <ns0:term xml:lang="bg">xxx</ns0:term>
                <ns0:term xml:lang="el">xxx</ns0:term>
                <ns0:term xml:lang="it">xxx</ns0:term>
