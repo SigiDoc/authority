@@ -840,14 +840,15 @@
 
                 <!-- BOOKS AND ARTICLES by author's name -->
                 <!-- in case of multiple authors, the reference is under the first one -->
-               
+
                 <!-- Ahrweiler -->
-                
+
                 <bibl type="journalArticle" xml:id="Glykatzi-Ahrweiler1960">
                     <bibl type="abbrev">Glykatzi-Ahrweiler, 1960</bibl>
                     <author><forename>Hélène</forename>
                         <surname>Glykatzi-Ahrweiler</surname></author>
-                    <title level="a">Recherches sur l'administration de l'Empire byzantin aux IXe-XIe siècles</title>
+                    <title level="a">Recherches sur l'administration de l'Empire byzantin aux
+                        IXe-XIe siècles</title>
                     <title level="j">BCH</title>
                     <biblScope unit="volume">84</biblScope>
                     <date>1960</date>
@@ -857,7 +858,8 @@
                     <bibl type="abbrev">Ahrweiler, 1966</bibl>
                     <author><forename>Hélène</forename>
                         <surname>Ahrweiler</surname></author>
-                    <title level="m">Byzance et la mer. La marine de guerre, la politique et les institutions maritimes de Byzance aux VIIe-XVe siècles</title>
+                    <title level="m">Byzance et la mer. La marine de guerre, la politique et les
+                        institutions maritimes de Byzance aux VIIe-XVe siècles</title>
                     <pubPlace>Paris</pubPlace>
                     <publisher>Presses Universitaires de France</publisher>
                     <date>1966</date>
@@ -867,13 +869,15 @@
                     <bibl type="abbrev">Ahrweiler, 1965</bibl>
                     <author><forename>Hélène</forename>
                         <surname>Ahrweiler</surname></author>
-                    <title level="a">L'histoire et la géographie de la région de Smyrne entre les deux occupations turques (1081-1317), particulièrement au XIIIe siècle</title>
+                    <title level="a">L'histoire et la géographie de la région de Smyrne entre les
+                        deux occupations turques (1081-1317), particulièrement au XIIIe
+                        siècle</title>
                     <title level="j">TM</title>
                     <biblScope unit="volume">1</biblScope>
                     <date>1965</date>
                     <biblScope unit="page">p. 139-140</biblScope>
                 </bibl>
-                
+
                 <!-- Alekseenko -->
 
                 <bibl type="journalArticle" xml:id="Alexeenko2003">
@@ -939,12 +943,13 @@
                 </bibl>
 
                 <!-- Angold -->
-                
+
                 <bibl type="book" xml:id="Angold1975">
                     <bibl type="abbrev">Angold, 1975</bibl>
                     <author><forename>Michael</forename>
                         <surname>Angold</surname></author>
-                    <title level="m">A Byzantine Government in Exile. Government and Society under the Lascarids of Nicaea, 1204-1261</title>
+                    <title level="m">A Byzantine Government in Exile. Government and Society under
+                        the Lascarids of Nicaea, 1204-1261</title>
                     <pubPlace>Oxford</pubPlace>
                     <publisher>Oxford University Press</publisher>
                     <date>1975</date>
@@ -953,7 +958,8 @@
                     <bibl type="abbrev">Angold, 1995</bibl>
                     <author><forename>Michael</forename>
                         <surname>Angold</surname></author>
-                    <title level="m">Church and Society in Byzantium under the Comnenoi, 1081-1261</title>
+                    <title level="m">Church and Society in Byzantium under the Comnenoi,
+                        1081-1261</title>
                     <pubPlace>Cambridge</pubPlace>
                     <publisher>Cambridge University Press</publisher>
                     <date>1995</date>
@@ -1012,6 +1018,16 @@
                     <date>1982</date>
                     <biblScope unit="page">p. 201-212</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Barnea1993">
+                    <bibl type="abbrev">Barnea, 1993</bibl>
+                    <author><forename>I.</forename>
+                        <surname>Barnea</surname></author>
+                    <title level="a">Sceaux byzantins inédits de Dobroudja</title>
+                    <title level="j">Studies in Byzantine Sigillography</title>
+                    <biblScope unit="volume">3</biblScope>
+                    <date>1993</date>
+                    <biblScope unit="page">p. 55-67</biblScope>
+                </bibl>
 
                 <!-- Barzos -->
 
@@ -1043,7 +1059,9 @@
                     <series><title level="s">Βυζαντινά Κείμενα και Μελέται = Byzantine Texts and
                             Studies = Textus Bizantini et Dissertationes 20β</title></series>
                 </bibl>
+
                 <!--Begleres-->
+
                 <bibl type="book" xml:id="Begleres1916"
                     corresp="http://zotero.org/users/3169239/items/xxxx">
                     <bibl type="abbrev">Begleres, 1916</bibl>
@@ -1056,6 +1074,19 @@
                     <publisher>Τυπογραφείον "Εστία"</publisher>
                     <date>1916</date>
                 </bibl>
+
+                <!-- Benvenuto -->
+                <bibl type="journalArticle" xml:id="Benvenuto2023">
+                    <bibl type="abbrev">Benvenuto, 2023</bibl>
+                    <author><forename>C.</forename>
+                        <surname>Benvenuto</surname></author>
+                    <title level="a">Fonti bizantine su Alessandro di Conversano</title>
+                    <title level="j">Archivio storico per la Calabria e la Lucania</title>
+                    <biblScope unit="volume">LXXXIX</biblScope>
+                    <date>2023</date>
+                    <biblScope unit="page">p. 7-39</biblScope>
+                </bibl>
+
 
                 <!-- Bibicou -->
 
@@ -1097,9 +1128,9 @@
                     <date>1998</date>
                     <biblScope unit="page">p. 50-66</biblScope>
                 </bibl>
-                
+
                 <!-- Bourdara -->
-                
+
                 <bibl type="book" xml:id="Bourdara1981"
                     corresp="http://zotero.org/users/3169239/items/PDWUKJEJ">
                     <bibl type="abbrev">Bourdara, 1981</bibl>
@@ -1111,15 +1142,17 @@
                     <pubPlace xml:lang="fr">Athènes</pubPlace>
                     <date>1981</date>
                 </bibl>
-                
+
                 <!-- Brandes -->
-                
+
                 <bibl type="book" xml:id="Brandes2002">
                     <bibl type="abbrev">Brandes, 2002</bibl>
                     <author><forename>Wolfram</forename>
                         <surname>Brandes</surname></author>
-                    <title level="m">Finanzverwaltung in Krisenzeiten. Untersuchungen zur byzantinischen Administration im 6.-9. Jahrhundert</title>
-                    <series><title level="s">Forschungen zur byzantinischen Rechtsgeschichte 25</title></series>
+                    <title level="m">Finanzverwaltung in Krisenzeiten. Untersuchungen zur
+                        byzantinischen Administration im 6.-9. Jahrhundert</title>
+                    <series><title level="s">Forschungen zur byzantinischen Rechtsgeschichte
+                            25</title></series>
                     <pubPlace>Frankfurt am Main</pubPlace>
                     <date>2002</date>
                 </bibl>
@@ -1156,16 +1189,17 @@
                     <publisher>Cambridge University Press</publisher>
                     <date>2011</date>
                 </bibl>
-                
+
                 <!-- Bryer -->
-                
+
                 <bibl type="book" xml:id="BryerWinfield1985">
                     <bibl type="abbrev">Bryer, Winfield, 1985</bibl>
                     <author><forename>Anthony</forename>
                         <surname>Bryer</surname></author>
                     <author><forename>David</forename>
                         <surname>Winfield</surname></author>
-                    <title level="m">The Byzantine Monuments and Topography of the Pontos I-II</title>
+                    <title level="m">The Byzantine Monuments and Topography of the Pontos
+                        I-II</title>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <date>1985</date>
                 </bibl>
@@ -1186,19 +1220,21 @@
                 </bibl>
 
                 <!-- Bulgakova -->
-                
+
                 <bibl type="book" xml:id="Bulgakova2004">
                     <bibl type="abbrev">Bulgakova, 2004</bibl>
                     <author><forename>Victoria</forename>
                         <surname>Bulgakova</surname></author>
-                    <title level="m">Byzantinische Bleisiegel in Osteuropa. Die Funde auf dem Territorium Altrusslands</title>
-                    <series><title level="s">Mainzer Veröffentlichungen zur Byzantinistik 6</title></series>
+                    <title level="m">Byzantinische Bleisiegel in Osteuropa. Die Funde auf dem
+                        Territorium Altrusslands</title>
+                    <series><title level="s">Mainzer Veröffentlichungen zur Byzantinistik
+                        6</title></series>
                     <pubPlace>Wiesbaden</pubPlace>
                     <date>2004</date>
                 </bibl>
 
                 <!--Bulgurlu-->
-                
+
                 <bibl type="journalArticle" xml:id="BulgurluIlasli2003">
                     <bibl type="abbrev">Bulgurlu, Ilasli, 2003</bibl>
                     <author><forename>Vera</forename>
@@ -1218,7 +1254,7 @@
                     <title level="m">Bizans kursun mühürleri</title>
                     <pubPlace>Istanbul</pubPlace>
                     <date>2007</date>
-                </bibl>                
+                </bibl>
                 <bibl type="bookSection" xml:id="Bulgurlu2019">
                     <bibl type="abbrev">Bulgurlu, 2019</bibl>
                     <author><forename>V.</forename>
@@ -1238,12 +1274,13 @@
                 </bibl>
 
                 <!-- Campagnolo-Pothitou -->
-                
+
                 <bibl type="journalArticle" xml:id="Campagnolo-Pothitou2009">
                     <bibl type="abbrev">Campagnolo-Pothitou, 2009</bibl>
                     <author><forename>Maria</forename>
                         <surname>Campagnolo-Pothitou</surname></author>
-                    <title level="a">Le sceau unique de Constantin Lascaris Comnène, l'empereur non couronné Constantin XI (1204-1205)</title>
+                    <title level="a">Le sceau unique de Constantin Lascaris Comnène, l'empereur non
+                        couronné Constantin XI (1204-1205)</title>
                     <title level="j">Genava</title>
                     <biblScope unit="volume">57</biblScope>
                     <date>2009</date>
@@ -1253,7 +1290,8 @@
                     <bibl type="abbrev">Campagnolo-Pothitou, 2014</bibl>
                     <author><forename>Maria</forename>
                         <surname>Campagnolo-Pothitou</surname></author>
-                    <title level="a">"Comme un relent d'iconoclasme" au début du XIIe siècle. Le témoignage sigillographique</title>
+                    <title level="a">"Comme un relent d'iconoclasme" au début du XIIe siècle. Le
+                        témoignage sigillographique</title>
                     <editor><forename>Matteo</forename>
                         <surname>Campagnolo</surname></editor>
                     <editor><forename>Paul</forename>
@@ -1262,7 +1300,8 @@
                         <surname>Martiniani-Reber</surname></editor>
                     <editor><forename>André-Louis</forename>
                         <surname>Rey</surname></editor>
-                    <title level="m">L'Aniconisme dans l'art religieux byzantin. Actes du colloque de Genève (1-3 octobre 2009)</title>
+                    <title level="m">L'Aniconisme dans l'art religieux byzantin. Actes du colloque
+                        de Genève (1-3 octobre 2009)</title>
                     <pubPlace>Genève</pubPlace>
                     <date>2014</date>
                     <biblScope unit="page">p. 175-191</biblScope>
@@ -1271,7 +1310,8 @@
                     <bibl type="abbrev">Campagnolo-Pothitou, 2016</bibl>
                     <author><forename>Maria</forename>
                         <surname>Campagnolo-Pothitou</surname></author>
-                    <title level="a">La bulle de 5 solidi (pentasoldia) de Constantin IX Monomaque (1042-1055)</title>
+                    <title level="a">La bulle de 5 solidi (pentasoldia) de Constantin IX Monomaque
+                        (1042-1055)</title>
                     <title level="j">SBS</title>
                     <biblScope unit="volume">12</biblScope>
                     <date>2016</date>
@@ -1674,6 +1714,28 @@
                     <biblScope unit="volume">12</biblScope>
                     <date>2016</date>
                     <biblScope unit="page">p. 1-12</biblScope>
+                </bibl>
+                <bibl type="bookSection" xml:id="Cheynet2023">
+                    <bibl type="abbrev">Cheynet, 2023</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">L'usage des sceaux à Byzance d'après ceux des Francs au service
+                        de l'Empire</title>
+                    <editor><forename>Chr.</forename>
+                        <surname>Maneuvrier</surname></editor>
+                    <editor><forename>J.-L.</forename>
+                        <surname>Chassel</surname></editor>
+                    <editor><forename>Cl.</forename>
+                        <surname>Blanc-Riehl</surname></editor>
+                    <title level="m">Apposer sa marque. Le sceau et son usage autour de l'espace
+                        anglo-normand: actes du colloque de Cerisy, Centre culturel international de
+                        Cerisy-la-Salle, 4-8 juin 2013</title>
+                    <pubPlace xml:lang="en">Paris</pubPlace>
+                    <pubPlace xml:lang="fr">Paris</pubPlace>
+                    <date>2023</date>
+                    <biblScope unit="page">p. 177-191</biblScope> Available at <ref
+                        target="http://sfhs-rfhs.fr/wp-content/PDF/cerisy2013/cerisy2013_cheynet.pdf"
+                        >Société Française d'Héraldique et de Sigillographie</ref>
                 </bibl>
 
 
@@ -3613,7 +3675,9 @@
                     <pubPlace xml:lang="fr">Rome</pubPlace>
                     <date>2012</date>
                     <biblScope unit="page">p. 605-641</biblScope>
-                    <series><title level="s">CEFR 461</title></series>
+                    <series><title level="s">CEFR 461</title></series> Available at <ref
+                        target="https://www.persee.fr/doc/efr_0223-5099_2012_act_461_1_10476"
+                        >Persée</ref>
                 </bibl>
                 <bibl type="bookSection" xml:id="Prigent2014"
                     corresp="http://zotero.org/users/3169239/items/MVL6ZQ58">
