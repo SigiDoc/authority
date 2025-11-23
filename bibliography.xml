@@ -3776,6 +3776,28 @@
                     <biblScope unit="page">p. 19-29</biblScope>
                 </bibl>
 
+                <!-- Safran -->
+
+                <bibl type="journalArticle" xml:id="Safran2023">
+                    <bibl type="abbrev">Safran, 2023</bibl>
+                    <author><forename>L.</forename>
+                        <surname>Safran</surname></author>
+                    <title level="a">From Sinai to Southern Italy: The Symbolic Geography of Saint
+                        Catherine</title>
+                    <editor><forename>N.</forename>
+                        <surname>Bianchi</surname></editor>
+                    <editor><forename>M.</forename>
+                        <surname>Duluș</surname></editor>
+                    <title level="j">Études byzantines et post-byzantines (=Legacies and
+                        Entanglements: Religious Identity, Cultural Tradition and Political Order in
+                        the Byzantine Sphere)</title>
+                    <biblScope unit="volume">V (XII)</biblScope>
+                    <date>2023</date>
+                    <biblScope unit="page">p. 83-118</biblScope> Available at <ref
+                        target="https://srsb.ro/wp-content/uploads/2025/08/EBPB-n.s.-5-2023.pdf"
+                        >Romanian Society for Byzantine Studies (SRSB)</ref>
+                </bibl>
+
                 <!-- Saint-Guillain -->
 
                 <bibl type="journalArticle" xml:id="Saint-Guillain2017"
@@ -5426,18 +5448,20 @@
                     <date>2011</date>
                     <biblScope unit="page">p. 253-255</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Cheynet1995a">
                     <bibl type="abbrev">Cheynet, 1995</bibl>
                     <author><forename>J.-Cl.</forename>
                         <surname>Cheynet</surname></author>
                     <title level="a">Review of <bibl>
-                        <title level="j">Studies in Byzantine Sigillography 3 (1993)</title></bibl></title>
+                            <title level="j">Studies in Byzantine Sigillography 3
+                            (1993)</title></bibl></title>
                     <title level="j">Revues des Études Byzantines</title>
                     <biblScope unit="volume">53</biblScope>
                     <date>1995</date>
                     <biblScope unit="page">p. 383-384</biblScope> Available at <ref
-                        target="https://www.persee.fr/doc/rebyz_0766-5598_1995_num_53_1_1913_t1_0383_0000_2">Persée</ref>.</bibl>
+                        target="https://www.persee.fr/doc/rebyz_0766-5598_1995_num_53_1_1913_t1_0383_0000_2"
+                        >Persée</ref>.</bibl>
 
                 <!--Thesis-->
                 <bibl type="thesis" xml:id="Zografopoulos2005"
