@@ -2023,6 +2023,7 @@
                 </bibl>
 
                 <!--   Feind-->
+                
                 <bibl type="book" xml:id="Feind2010"
                     corresp="http://zotero.org/users/3169239/items/DAD7LDWP">
                     <bibl type="abbrev">Feind 2010</bibl>
@@ -2062,6 +2063,7 @@
                     <publisher>Gietl</publisher>
                     <date>2013</date>
                 </bibl>
+                
                 <!-- Feissel -->
 
                 <bibl type="bookSection" xml:id="Feissel2003"
@@ -2079,6 +2081,18 @@
                     <pubPlace xml:lang="fr">Athènes</pubPlace>
                     <date>2003</date>
                     <biblScope unit="page">p. 231-247</biblScope>
+                </bibl>
+                
+                <!-- Fernández-Acevez -->
+                
+                <bibl type="book" xml:id="Fernández-Acevez2020">
+                    <bibl type="abbrev">Fernández-Acevez, 2020</bibl>
+                    <author><forename>H.</forename>
+                        <surname>Fernández-Acevez</surname></author>
+                    <title level="m">County and Nobility in Norman Italy. Aristocratic Agency in the Kingdom of Sicily, 1130-1189</title>
+                    <pubPlace xml:lang="en">London</pubPlace>
+                    <pubPlace xml:lang="fr">Londres</pubPlace>
+                    <date>2020</date>
                 </bibl>
 
                 <!-- Follieri -->
